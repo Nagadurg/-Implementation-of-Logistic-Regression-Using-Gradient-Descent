@@ -33,6 +33,7 @@ Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: Chevula.Naga durga
 RegisterNumber: 212221230014 
 */
+```
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd  
@@ -84,7 +85,7 @@ for i,j in enumerate(np.unique(y_Set)):
   plt.ylabel('Estimated Salary')
   plt.legend()
   plt.show()
-
+```
 
 
 
